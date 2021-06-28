@@ -14,11 +14,7 @@ enableRobotsTXT = true
   [languages.en]
     title = "Mahyar Gorji"
     weight = 1
-    contentDir = "content/en"
-  [languages.fr]
-    title = "Mahyar Gorji"
-    weight = 2
-    contentDir = "content/fr"
+    contentDir = "content/"
 
 [sitemap]
   changefreq = "monthly"
